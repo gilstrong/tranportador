@@ -1,14 +1,14 @@
 {
   "id": "./",
-  "name": "Transpositor de acordes",
-  "short_name": "Acordes",
-  "description": "Transpone acordes y exporta la canción en PDF",
+  "name": "Asistente Musical",
+  "short_name": "Asistente",
+  "description": "Transpositor de acordes, biblioteca y herramientas musicales",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#fafaf7",
-  "theme_color": "#0f6e56",
+  "background_color": "#0c0e17",
+  "theme_color": "#0c0e17",
   "lang": "es",
   "icons": [
     {
